@@ -25,7 +25,9 @@ Before running the project, ensure you have the following installed:
    git clone https://github.com/your-repository/hr-product-management.git
    
 2. Navigate to the project directory
+     ```sh
    cd hr-product-management
    
-3. Install dependencies  
+3. Install dependencies
+     ```sh
    mvn clean install
